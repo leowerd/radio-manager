@@ -1,5 +1,9 @@
 # Radio-Manager
 
+<img src="images/screen.png" width="600" height="664">
+
+
+
 Дорожная карта:
 
 -Проверка файла CSV, устранение проблем синтаксиса
